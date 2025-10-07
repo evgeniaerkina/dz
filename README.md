@@ -7,3 +7,4 @@ print(a+b)
 
 yjdsq ntrcn
 новый    текст  а
+иоьрно
