@@ -1,2 +1,8 @@
 # dz
 домашнее задание
+
+a=4
+b=7
+print(a+b)
+
+yjdsq ntrcn
